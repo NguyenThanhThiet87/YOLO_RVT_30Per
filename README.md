@@ -35,12 +35,12 @@ Each experiment directory typically contains:
 │   ├── V11S_GRU/                     # YOLOv11s + GRU head
 │   ├── V11S_LSTM/                    # YOLOv11s + LSTM head
 │   ├── 2Stage/                       # Two-stage pipeline (Detect → OCR separately)
-│   └── Detection/                    # Detection-only baseline (without character recognition)
+│   └── Detection/                    # Training YOLO
 │
 ├── AOLP/                             # Experiments on the AOLP dataset (Taiwan)
-│   ├── AC/                           # Access Control
-│   ├── LE/                           # Law Enforcement
-│   └── RP/                           # Road Patrol
+│   ├── AC/                           
+│   ├── LE/                           
+│   └── RP/                           
 │
 ├── Rodosol/                          # Experiments on the RodoSol-ALPR dataset (Brazil)
 │   ├── Pretrained_108ep_VNLP/        # Transfer learning using VNLP pretrained weights
