@@ -1,0 +1,5 @@
+names:
+- Lisence_Plate
+nc: 1
+train: /kaggle/input/datasets/thittnt/rodosal-alpr-dataset/RodoSol-ALPR_dataset/images/train
+val: /kaggle/input/datasets/thittnt/rodosal-alpr-dataset/RodoSol-ALPR_dataset/images/val

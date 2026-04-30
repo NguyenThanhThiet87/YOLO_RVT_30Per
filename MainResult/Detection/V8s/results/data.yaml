@@ -1,0 +1,6 @@
+names:
+- Lisence_Plate
+nc: 1
+test: /kaggle/input/dataset-lpr-test/License_plate_data2/images/test
+train: /kaggle/input/dataset-lpr-test/License_plate_data2/images/train
+val: /kaggle/input/dataset-lpr-test/License_plate_data2/images/val

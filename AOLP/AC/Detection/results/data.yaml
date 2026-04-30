@@ -1,0 +1,5 @@
+names:
+- Lisence_Plate
+nc: 1
+train: /kaggle/input/datasets/nguynthanhthit/aolp-ac/AOLP_AC/AOLP_AC/train/images
+val: /kaggle/input/datasets/nguynthanhthit/aolp-ac/AOLP_AC/AOLP_AC/val/images
