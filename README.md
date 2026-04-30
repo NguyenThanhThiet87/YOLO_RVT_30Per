@@ -57,8 +57,7 @@ Each experiment directory typically contains:
 
 Due to storage limitations, all datasets used in our experiments are hosted via a single Google Drive link. The only exception is the AOLP dataset and Rodosol-alpr dataset, which must be downloaded from its official repository.
 
-* All other datasets: https://drive.google.com/drive/folders/1G_hezDG_PC3aLRjFZMM2LFmwEAAtEoq-?usp=sharing
-
+* All other datasets: https://drive.google.com/drive/folders/1l9A-Trz9j1GG7IlIJB7Ltl1xWZJXYNWM?usp=sharing
 * AOLP Dataset: https://github.com/AvLab-CV/AOLP
 
 * Rodosol-alpr Dataset: https://github.com/raysonlaroca/rodosol-alpr-dataset
