@@ -17,7 +17,9 @@ Each experiment directory typically contains:
 
 ---
 
-YOLO_RVT_Experiments/
+# Repository Structure
+
+```text
 ├── Ablation/                         # Ablation study experiments — evaluating the contribution of each component
 │   ├── WithoutCrossAttention/        # Without Cross-Attention module
 │   ├── WithoutRecurrentHead/         # Without Recurrent Head (GRU/LSTM)
@@ -49,6 +51,7 @@ YOLO_RVT_Experiments/
 │   └── E2E/                          # End-to-End YOLO-RVT on VNLP2
 ```
 
+---
 
 # Dataset Download
 
