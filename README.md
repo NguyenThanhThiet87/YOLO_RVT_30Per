@@ -38,9 +38,9 @@ Each experiment directory typically contains:
 │   └── Detection/                    # Training YOLO
 │
 ├── AOLP/                             # Experiments on the AOLP dataset (Taiwan)
-│   ├── AC/                           
-│   ├── LE/                           
-│   └── RP/                           
+│   ├── AC/                           # Evaluation on the AC Subset of the AOLP Dataset
+│   ├── LE/                           # Evaluation on the LE Subset of the AOLP Dataset
+│   └── RP/                           # Evaluation on the RP Subset of the AOLP Dataset
 │
 ├── Rodosol/                          # Experiments on the RodoSol-ALPR dataset (Brazil)
 │   ├── Pretrained_108ep_VNLP/        # Transfer learning using VNLP pretrained weights
